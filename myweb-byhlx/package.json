@@ -1,0 +1,15 @@
+{
+  "name": "",
+  "version": "0.1.0",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "latest",
+    "gulp-connect": "latest",
+    "gulp-file-include": "latest",
+    "gulp-less": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-uglify": "latest",
+    "gulp.spritesmith": "latest"
+  },
+  "dependencies": {}
+}
